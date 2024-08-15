@@ -4,11 +4,6 @@ settings:
     autoInstallPeers: true
     excludeLinksFromLockfile: false
 
-engines:
-    pnpm:
-        specifier: ^9.0.0
-        version: 9.0.0
-
 importers:
     .:
         dependencies:
